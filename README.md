@@ -2,11 +2,11 @@
 
 ## My setup
 
-- Operating system:
+- Operating system: Linux
 - Editor: VS Code
-- Git version: (paste output of: git --version)
-- Git name: (paste output of: git config user.name)
-- Git email: (paste output of: git config user.email)
+- Git version: 2.47.3
+- Git name: Janet Badia
+- Git email: devjuicyremedies@proton.me
 
 ## ACP log
 
@@ -15,5 +15,6 @@
 | 1   | Made the repo on GitHub with a README | Initial commit    | main   |
 | 2   | Created my first page                 | Add first page    | main   |
 | 3   | Updated home page                     | Update home page  | main   |
-| 4   | Updated README                        | Update README log | main   |
-| 5   |
+| 4   | Updated home page                     | Update home page  | main   |
+| 5   | Update README log                     | Update README log | main   |
+| 6   | Update home page                      | Update home page  | main   |
