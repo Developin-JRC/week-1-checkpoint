@@ -1,5 +1,7 @@
 # week-1-checkpoint
 
+https://github.com/Developin-JRC/week-1-checkpoint
+
 ## My setup
 
 - Operating system: Linux
